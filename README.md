@@ -1,2 +1,2 @@
-# cursoemvideo-html5
- Material do curso de HTML5 e CSS3
+# Projeto Google Glass
+Projeto de um site sobre o Google Glass feito durante o curso de HTML5 do canal Curso em Vídeo do YouTube.
